@@ -16,3 +16,4 @@ sse-starlette
 matplotlib
 fire
 packaging
+aiohttp>=3.9.4 # not directly required, pinned by Snyk to avoid a vulnerability
